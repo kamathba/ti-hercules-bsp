@@ -17,7 +17,7 @@ The TMS570 family integrates dual Cortex-R4F and Cortex-R5F processors in lock-s
   * Hard-float: `rustup target add armebv7r-none-eabihf`
   * Soft-float: `rustup target add armebv7r-none-eabi`
 * GCC v7.3.2 for ARM: `sudo apt-get install gcc-arm-none-eabi`
-* JTAG programmer: Lautherbach Trace32 Powerview for ARM or OpenOCD
+* JTAG programmer: Lautherbach Trace32 Powerview for ARM or OpenOCD or SEGGER Jlink
 
 ## How to use
 
